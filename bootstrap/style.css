@@ -1,0 +1,14 @@
+.nav_background{
+    background-color: #603c26;
+    
+}
+.nav_background div,ul,li,a{
+    color:white !important;
+}
+.nav-link{
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+.dropdown-menu .dropdown-item{
+    color:black !important;
+}
